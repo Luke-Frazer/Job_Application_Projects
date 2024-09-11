@@ -1,7 +1,8 @@
 # Zendesk-Coding-Challenge
 Author: Luke Frazer
+Year written: 2021
 
-This is the code for the Zendesk Coding Challenge for possible upcoming interns. 
+This code is part of a Zendesk Coding Challenge. 
 This is a ticket viewer that will import all tickets from my Zendesk account and allow the user to navigate through them using a command line. 
 
 =---------------------------------------------------------------------------------------------------------------------------=
